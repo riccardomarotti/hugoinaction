@@ -1,4 +1,5 @@
 baseURL: http://example.org/                  # Hosting location.
 languageCode: en-us
 title: My New Hugo Site
-publishDir: docs                              # Output folder (For Hosting)
+theme: github.com/hugoinaction/Eclectic
+publishDir: docs                                   # For hosting.
