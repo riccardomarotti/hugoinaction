@@ -5,3 +5,4 @@ theme: Eclectic                               # Name of the theme
 publishDir: docs                              # Output folder
 enableEmoji: true                             # Enable Emoticons
 enableGitInfo: true                           # Allow access to Git data
+Paginate: 3                                   # 3 Posts per page
