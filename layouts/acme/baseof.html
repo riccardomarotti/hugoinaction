@@ -16,8 +16,21 @@
         {{with .Page.Title}}<h1>{{.}}</h1>{{end}}
         {{.Content}}
       </main>
-    <section>
+    </section>
   {{end}}
+  {{block "footer" .}}
+  <footer>
+    <nav>
+      <ul>
+        {{ range $.Site.Menus.footer }}
+        <li><a href="{{.URL}}">{{.Name | humanize}}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    <br>
+    {{.Param "copyright" | markdownify}}
+  </footer>
+  {{ end }}
 </body>
 
 </html>
