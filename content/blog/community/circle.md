@@ -7,11 +7,7 @@ A circle is a simple closed shape. It is the set of all points in a plane that a
 <!--more-->
 A circle is a simple closed curve that divides the plane into two regions: an interior and an exterior. In everyday use, the term "circle" may be used interchangeably to refer to either the boundary of the figure, or to the whole figure including its interior; in strict technical usage, the circle is only the boundary and the whole figure is called a disc.
 
-A circle may also be defined as a special kind of ellipse in which the two foci are coincident and the eccentricity is 0, or the two-dimensional shape enclosing the most area per unit perimeter squared, using calculus of variations.
-
-## Price
-
-The circle is priced at `{{< price product="Circle" >}}`.
+A circle may also be defined as a special kind of ellipse in which the two foci are coincident and the eccentricity is 0, or the two-dimensional shape enclosing the most area per unit perimeter squared, using calculus of variations. 
 
 ## Terminology
 
@@ -31,7 +27,7 @@ The circle is priced at `{{< price product="Circle" >}}`.
 * **Semicircle** one of the two possible arcs determined by the endpoints of a diameter, taking its midpoint as center. In non-technical common usage it may mean the interior of the two dimensional region bounded by a diameter and one of its arcs, that is technically called a half-disc. A half-disc is a special case of a segment, namely the largest one.
 * **Tangent** a coplanar straight line that has one single point in common with a circle ("touches the circle at this point").
 
-All of the specified regions may be considered as open, that is, not containing their boundaries, or as closed, including their respective boundaries.
+All of the specified regions may be considered as open, that is, not containing their boundaries, or as closed, including their respective boundaries. 
 
 ## Properties
 
