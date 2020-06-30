@@ -212,7 +212,7 @@ details summary::-webkit-details-marker {
   }
 
   .post {
-    width: calc(100% - 30px)
+    width: calc(100% - 30px);
     margin: 15px;
   }
 }
