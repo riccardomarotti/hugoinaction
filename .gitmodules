@@ -1,0 +1,3 @@
+[submodule "acme-corporation/themes/Universal"]
+	path = acme-corporation/themes/Universal
+	url = https://github.com/devcows/hugo-universal-theme
